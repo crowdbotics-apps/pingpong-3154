@@ -1,0 +1,3 @@
+rootProject.name = 'pingpong_3154'
+
+include ':app'
